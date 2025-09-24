@@ -12,5 +12,7 @@ public class MyTest {
         System.out.println(8);
         System.out.println(88);
         System.out.println(99);
+        System.out.println(100);
+        System.out.println(101);
     }
 }
