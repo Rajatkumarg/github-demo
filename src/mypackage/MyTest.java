@@ -11,5 +11,6 @@ public class MyTest {
         System.out.println(77);
         System.out.println(8);
         System.out.println(88);
+        System.out.println(99);
     }
 }
