@@ -22,6 +22,7 @@ public class MyTest {
         System.out.println(18);
         System.out.println(19);
         System.out.println(20);
+        System.out.println(21);
         System.out.println(88);
         System.out.println(99);
         System.out.println(100);
